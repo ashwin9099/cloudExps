@@ -1,0 +1,11 @@
+https://www.geeksforgeeks.org/how-to-create-virtual-machines-in-linux-using-kvm-kernel-based-virtual-machine/
+
+sudo apt install kvmtool
+sudo apt install libvert daemon
+sudo apt install filezilla
+
+filezilla
+
+host IP:172.25.0.111
+
+sudo virt-manager
